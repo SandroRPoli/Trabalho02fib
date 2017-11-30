@@ -1,8 +1,8 @@
-package trabalhocomposite;
+package Composite;
 
 import java.util.ArrayList;
 import java.util.List;
-import trabalhocomposite.Interface.iEsquema;
+import Composite.Interface.iEsquema;
 
 public class Presidente implements iEsquema {
 

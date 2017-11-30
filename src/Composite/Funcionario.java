@@ -1,6 +1,6 @@
-package trabalhocomposite;
+package Composite;
 
-import trabalhocomposite.Interface.iEsquema;
+import Composite.Interface.iEsquema;
 
 public class Funcionario implements iEsquema {
 
