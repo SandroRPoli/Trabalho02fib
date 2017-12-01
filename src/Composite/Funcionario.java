@@ -46,6 +46,6 @@ public class Funcionario implements iEsquema {
 
     @Override
     public String mostrarFunc() {
-        return "Nome: " + this.nome + " Cargo: " + this.cargo + " Salario: " + receberPgto();
+        return "Nome: " + this.nome + ", Cargo: " + this.cargo + ", Salario: " + receberPgto();
     }
 }
